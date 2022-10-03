@@ -2,18 +2,283 @@
   &-1
     animation: float1 3.5s ease-in-out infinite alternate
     position: absolute
-    top: 40%
-    right: 50%
+    top: 68%
+    left: -10%
   &-2
-    animation: float1 2.8s ease-in-out infinite alternate
+    animation: float2 2.8s ease-in-out infinite alternate
     position: absolute
-    top: 51%
-    right: 30%
+    top: 30%
+    right: 20%
+  &-3
+    animation: float3 2.8s ease-in-out infinite alternate
+    position: absolute
+    top: 65%
+    right: 0%    
 
 
 @keyframes float1
-  0%
-    transform: translateY(20px)
+  0% 
+      transform: scale(1)
+  
+  100% 
+      transform: scale(1.2)
+  
+  .duration 
+      animation-duration: 1s
+      animation-fill-mode: both
+  
+  .time1 
+      animation-duration: 1s
+      -webkit-animation-duration: 2s
+      animation-delay: 1s
+      -webkit-animation-delay: 1s
+      animation-iteration-count: 1
+      -webkit-animation-iteration-count: 1
+  
+@keyframes float2
+  0% 
+      transform: translateX(20px)
+  
+  100% 
+      transform: translateX(0)
+  
+@keyframes float3
+  0% 
+      transform: translateY(20px)
+  
+  100% 
+      transform: translateY(0)
 
-  100%
-    transform: translateY(0px)
+.banner-interno__fondo
+  background-image: url("../assets/curso/portada/4.svg") !important    
+
+.titulo-principal.color-acento-contenido .titulo-principal__numero span
+  color: white    
+
+.img-a 
+  display: block
+  margin: auto
+
+.img-t
+  width: auto
+  height: auto    
+
+.cajon.color-acento-contenido
+  background-color: #E2DAFC
+
+.cajon.color-acento-contenido::before
+  background-color: #8C6DF2
+
+.ribbon 
+  position: relative
+  float: left
+  margin-bottom: 30px
+  color: white
+
+.ribbon:nth-child(even) 
+  margin-right: 4%
+
+@media (max-width: 500px) 
+  .ribbon 
+    width: 100%
+  
+  .ribbon:nth-child(even) 
+    margin-right: 0%
+  
+
+.ribbon1 
+  position: absolute
+  top: -6.1px
+  right: -10px
+
+.ribbon1:after 
+  position: absolute
+  content: ""
+  width: 100px
+  height: 0
+  border-right: 30px solid transparent
+  border-left: 20px solid transparent
+  border-top: 35px solid #4F389F
+  top: 0
+  right: -5px
+  
+.ribbon1 span 
+  position: relative
+  display: block
+  text-align: center
+  font-size: 23px
+  font-weight: bold
+  line-height: 1
+  padding: 6px 0px 0px
+  width: 90px
+  z-index: 1
+.ribbon1 span:before, .ribbon1 span:after 
+  position: absolute
+  content: ""
+
+.ribbon1 span:before 
+  height: 6px
+  width: 6px
+  left: -6px
+  top: 0
+  background: #4F389F
+
+.ribbon1 span:after 
+  height: 6px
+  width: 8px
+  left: -8px
+  top: 0
+  border-radius: 28px 8px 0 0
+  background: #4F389F
+  
+      
+.bg1
+  border: 2px solid #4F389F
+
+.ribbon2 
+  position: absolute
+  top: -6.1px
+  right: -10px
+
+.ribbon2:after 
+  position: absolute
+  content: ""
+  width: 100px
+  height: 0
+  border-right: 30px solid transparent
+  border-left: 20px solid transparent
+  border-top: 35px solid #FBB54E
+  top: 0
+  right: -5px
+  
+.ribbon2 span 
+  position: relative
+  display: block
+  text-align: center
+  font-size: 23px
+  font-weight: bold
+  line-height: 1
+  padding: 6px 0px 0px
+  width: 90px
+  z-index: 1
+.ribbon2 span:before, .ribbon2 span:after 
+  position: absolute
+  content: ""
+
+.ribbon2 span:before 
+  height: 6px
+  width: 6px
+  left: -6px
+  top: 0
+  background: #FBB54E
+
+.ribbon2 span:after 
+  height: 6px
+  width: 8px
+  left: -8px
+  top: 0
+  border-radius: 28px 8px 0 0
+  background: #FBB54E
+
+.bg2
+  border: 2px solid #FBB54E 
+  
+.tpurple
+  color: #4F389F 
+
+.bg3
+  background-color: #4F389F 
+  outline: 2px solid #4F389F
+  border: 5px solid white
+
+.bloque-texto-a.color-secundario
+  background-color: #8C6DF2
+
+.bloque-texto-a.color-secundario::before
+  background-color: #FEDC72   
+
+.bloque-texto-a::before
+  left: 45%
+
+.tabs-c__tab--active  
+  font-weight: bold
+.tabs-c__content-item  
+  background-color: #8C6DF2
+.tabs-c__header
+  margin-bottom: 0
+
+.tblack
+  color: $color-sistema-texto !important  
+
+.anexo
+  background-color: #FEDC72   
+
+.anexo:hover
+  background-color: #F9E7AE
+
+.cajon.color-primario
+  background-color: #FFF6DB
+  
+.bg4
+  background-color: #FDB74D
+  border-radius: 10px 0 0 10px 
+.bg5
+  background-color: #FEDC72
+  border-radius: 0 10px 10px 0     
+
+.acordion
+  .tarjeta.bg6
+    background-color: #FEDC72
+
+.tarjeta.bg6.acordion__activo
+  background-color: #8C6DF2 !important 
+  *
+    color: white 
+.acordion__accion__btn--a i
+  color: #5038A1 !important
+.tarjeta.bg6.acordion__activo i            
+  color: #FDB74D !important  
+
+.tarjeta--azul
+  background-color: #FEDC72  
+
+.slyder-a__btn--sigt, .slyder-a__btn--atrs
+  @media (max-width: 810px)
+    width: 35px
+    height: 35px
+  @media (max-width: $bp-max-sm )
+    width: 25px
+    height: 25px  
+.slyder-a__bullets__item    
+  @media (max-width: 810px)
+    width: 10px
+    height: 10px  
+    margin: 0 3px   
+  @media (max-width: $bp-max-sm)
+    width: 10px
+    height: 10px  
+    margin: 0 3px        
+
+.slyder-a
+  &__tipo-a
+    .slyder-a
+      &__bullets
+        position: absolute
+        bottom: 20px !important
+        left: 50%
+        transform: translateX(-50%)            
+
+
+.slyder-a__bullets__item--active
+  background-color: #5038A1 !important
+  border: 1px solid #5038A1
+.slyder-a__btn--sigt, .slyder-a__btn--atrs
+  background-color: #5038A1
+.slyder-a__bullets__item
+  background-color: #C2A382
+  border: 1px solid #C2A382  
+
+.tarjeta.color-acento-botones:hover
+  background-color: #FEDC72
+  *
+    color: $color-sistema-texto !important  
