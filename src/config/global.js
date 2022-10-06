@@ -164,8 +164,6 @@ export default {
       referencia:
         'Equipo de Penta Marketing. 2020. <i>La guía completa para eventos virtuales inmersivos 3D. Pentamarketing</i>.',
       tipo: 'Documento',
-      link:
-        'hhttps://pentamarketing.co/wp-content/uploads/2022/02/ebook2022.pdf',
     },
     {
       tema: 'Recolección de información ',

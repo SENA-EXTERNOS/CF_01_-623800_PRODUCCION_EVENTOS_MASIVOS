@@ -10,7 +10,7 @@
     .row.justify-content-center.align-items-center.mb-5           
       .col-lg-7.my-3
         .cajon.color-primario.p-4.mb-3(data-aos="flip-down")
-          p(data-aos="fade-down").mb-0 La comunicación es la base de todo evento por esto es necesario conocer desde sus elementos, tipos, el lenguaje verbal, no verbal, la comunicación asertiva y la programación neurolingüística. Cabe resaltar que en la actualidad, sirviéndose de la virtud de la tecnología, los eventos se realizan con diferentes tipos de comunicación haciendo de algunos ellos la manifestación de la creatividad y de la innovación.
+          p(data-aos="fade-down").mb-0 La comunicación es la base de todo evento, por esto es necesario conocer desde sus elementos, tipos, el lenguaje verbal, no verbal, la comunicación asertiva y la programación neurolingüística. Cabe resaltar que en la actualidad, sirviéndose de la virtud de la tecnología, los eventos se realizan con diferentes tipos de comunicación haciendo de algunos ellos la manifestación de la creatividad y de la innovación.
         p(data-aos="fade-down").mb-0 Existen algunos elementos en la comunicación sin los cuales no se podría producir, cada uno cumple un papel fundamental en la misma.
            
       .col-lg-5
@@ -46,7 +46,9 @@
               p.mb-0 Respuesta de quien recibe el mensaje.
 
     .cajon.color-acento-contenido.p-4.mb-5(data-aos="flip-down")
-      p(data-aos="fade-down") Le invitamos a ver el siguiente video Elementos de la comunicación para que tenga mayor claridad en cada uno de ellos. 
+      p(data-aos="fade-down") Le invitamos a ver el siguiente video 
+        a(href="https://youtu.be/rM4nZhhn3v8" target="_blank") https://youtu.be/rM4nZhhn3v8
+        span  Elementos de la comunicación para que tenga mayor claridad en cada uno de ellos. 
 
       p(data-aos="fade-down").mb-0 Ahora bien, los tipos de comunicación tienen dos subcategorías: verbal y no verbal, estas condicionan la forma en que puede realizarse un evento, bien sea híbrido o digital.
 
@@ -57,9 +59,9 @@
         .row.justify-content-center.align-items-center
           .col-lg-4
             h5 Lenguaje no verbal
-            p Como su nombre lo indica es donde la forma de comunicarse no verbaliza, es decir que se expresa a través de gestos, señales, signos y en las posturas corporales y manifestaciones gestuales, ya sea en una mirada o expresión del rostro. 
+            p Como su nombre lo indica, es donde la forma de comunicarse no verbaliza, es decir, que se expresa a través de gestos, señales, signos y en las posturas corporales y manifestaciones gestuales, ya sea en una mirada o expresión del rostro. 
 
-            p Este tipo de lenguaje también se conoce como quinésica, en donde los movimientos corporales o gestuales como la mirada, expresan sin verbalizar.     
+            p Este tipo de lenguaje también se conoce como quinésica, en donde los movimientos corporales o gestuales, como la mirada, expresan sin verbalizar.     
           .col-lg-6
             img.img-a.img-t(src='@/assets/curso/temas/img19.png', alt='') 
         .row.justify-content-center.align-items-center
@@ -69,7 +71,7 @@
 
             p Esta manifestación del lenguaje verbal se evidencia a través de signos para expresar sentimientos, emociones, pensamientos.
 
-            p Se puede utilizar para intercambio de conocimientos es decir que es vital en la educación, es decir, enseñanza- aprendizaje, como también en la interacción con las otras personas.     
+            p Se puede utilizar para intercambio de conocimientos, es decir que es vital en la educación, es decir, enseñanza- aprendizaje, como también en la interacción con las otras personas.     
           .col-lg-6
             img.img-a.img-t(src='@/assets/curso/temas/img20.png', alt='') 
         .row.justify-content-center.align-items-center
@@ -85,7 +87,7 @@
             h5 Programación neurolingüística
             p Es conocida como #[b PNL], la cual piensa en forma efectiva a través de técnicas, habilidades y modelos con base en estructuras lingüísticas, patrones de comportamiento, mapas mentales de aquellas personas que han llegado a la excelencia en su campo, es decir, trabajadores con éxito.
 
-            p El #[b PNL] marca patrones organizativos en el pensamiento para que se llegue a la excelencia enmarcando a la persona en una forma de ser y de pensar, imitando a otro que ya tuvo éxito. Se refiere a #[b Neuro] dado que toman las experiencias de vida como base para crear patrones y #[b Lingüística] dada la traducción a un lenguaje para dar a conocer las impresiones que rigen los sentidos y estos dos momentos se toman para realizar una #[b Programación] de la cual resultan patrones de comportamiento y marcos de conducta que organizan las ideas y define los comportamientos para lograr imitar el éxito.    
+            p El #[b PNL] marca patrones organizativos en el pensamiento para que se llegue a la excelencia, enmarcando a la persona en una forma de ser y de pensar, imitando a otro que ya tuvo éxito. Se refiere a #[b Neuro] dado que toman las experiencias de vida como base para crear patrones y #[b Lingüística] dada la traducción a un lenguaje para dar a conocer las impresiones que rigen los sentidos y estos dos momentos se toman para realizar una #[b Programación] de la cual resultan patrones de comportamiento y marcos de conducta que organizan las ideas y define los comportamientos para lograr imitar el éxito.    
           .col-lg-6
             img.img-a.img-t(src='@/assets/curso/temas/img22.png', alt='')                                         
 </template>

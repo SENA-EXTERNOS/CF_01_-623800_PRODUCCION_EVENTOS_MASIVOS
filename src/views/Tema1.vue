@@ -13,7 +13,7 @@
           p(data-aos="fade-down").mb-0 Para reconocer la naturaleza y tipología de los eventos es necesario definir qué es un evento, debido a que existen variedad de enfoques de este término.
         p(data-aos="fade-down") Si lo definimos como un acontecimiento que se organiza en forma detallada, comenzando con la investigación y análisis sobre el objetivo de este, la planeación, la ejecución y evaluación, estamos enmarcándonos en aquellos eventos que por su naturaleza buscan dinamizar un mercado, establecer una cultura u ofrecer esparcimiento a una población.
 
-        p(data-aos="fade-down").mb-0 Con base en lo anterior, en esta primera parte se vera el enfoque y concepto de lo que es un evento, sus características, tipología, cómo es su naturaleza acorde al público, la geografía, su actividad, complejidad y aforo.             
+        p(data-aos="fade-down").mb-0 Con base en lo anterior, en esta primera parte se verá el enfoque y concepto de lo que es un evento, sus características, tipología, cómo es su naturaleza acorde al público, la geografía, su actividad, complejidad y aforo.             
       .col-lg-6
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img8.png', alt='')      
 
@@ -77,14 +77,14 @@
                 p(data-aos="fade-down").mb-0 La mayoría de eventos cuentan con matiz formal y un protocolo para alcanzar el objetivo propuesto. Todos cuentan con asistentes como personajes principales, protagonistas, invitados y medios de comunicación. 
 
     p(data-aos="fade-down").my-5 Son muchas las tipologías de los eventos y varían dependiendo del objetivo que se plantee de los mismos. Existen eventos, deportivos, culturales, sociales, empresariales, académicos, políticos, religiosos, militares, diplomáticos y cada uno de estos cuenta con una diversidad de eventos en sí mismos que exigen un protocolo y una organización en detalle, por ejemplo, uno empresarial puede ser netamente comercial o de capacitación, y sigue siendo de la línea empresarial.
-
+    p(data-aos="fade-down").mb-5 Según su tipología, los eventos puede clasificarse así:
     TabsC.color-primario.mb-5(data-aos="fade-right")
       .py-3.py-md-4(titulo="Según el público")
         .row.justify-content-center.align-items-center.text-white
           .col-lg-5
             img.img-a.img-t.my-3(src='@/assets/curso/temas/img9.png', alt='')                                            
           .col-lg-5
-            P De acuerdo con la naturaleza de los eventos (ferias, festivales, congresos, torneos, exhibiciones carnavales, conciertos, funciones teatrales, simposios, conservatorios, debates, conferencias), se tiene un tipo de público, a saber:
+            P De acuerdo con la naturaleza de los eventos (ferias, festivales, congresos, torneos, exhibiciones, carnavales, conciertos, funciones, teatrales, simposios, conservatorios, debates, conferencias), se tiene un tipo de público, a saber:
             ul.lista-ul
               li 
                 i.fas.fa-check
@@ -99,7 +99,7 @@
                 i.fas.fa-check
                 p.mb-0 #[b Accidental:] Se trata de quienes vieron el evento y se involucraron solo porque pasaba cerca de él, no fueron invitados y sin darse cuenta participaron. 
 
-      .py-3.py-md-4(titulo="Según la actividad")
+      .py-3.py-md-4(titulo="Según el ámbito geográfico")
         .row.justify-content-center.align-items-center.text-white
           .col-lg-5
             img.img-a.img-t.my-3(src='@/assets/curso/temas/img10.png', alt='')                                            
@@ -117,7 +117,7 @@
                 i.fas.fa-check
                 p.mb-0 #[b Local:] Este evento se ubica en una ciudad o lugar específico del país y sus invitados también son de esa misma localidad.   
 
-      .py-3.py-md-4(titulo="Según el ámbito geográfico")
+      .py-3.py-md-4(titulo="Según la actividad")
         .row.justify-content-center.align-items-center.text-white
           .col-lg-5
             img.img-a.img-t.my-3(src='@/assets/curso/temas/img11.png', alt='')                                            
@@ -194,7 +194,7 @@
             P.mb-0 #[b Masivo: ]Más de 1000 personas.
 
     .cajon.color-primario.p-4.mb-3(data-aos="flip-down")
-      p(data-aos="fade-down").mb-0 Para ampliar el tema observe el siguiente vídeo sobre los tipos de formatos para eventos: Ecosistema de Recursos Educativos Digitales SENA. <i>Tipos de formatos para eventos.</i> 
+      p(data-aos="fade-down").mb-0 Para ampliar el tema observe, el siguiente vídeo sobre los tipos de formatos para eventos: Ecosistema de Recursos Educativos Digitales SENA. <i>Tipos de formatos para eventos.</i> 
         a(href="https://youtu.be/Tyu8s3GEMuo" target="_blank") https://youtu.be/Tyu8s3GEMuo       
 </template>
 
