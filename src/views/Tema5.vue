@@ -10,9 +10,12 @@
     .row.justify-content-center.align-items-center.mb-5           
       .col-lg-6.my-3
         .cajon.color-acento-contenido.p-4.mb-3(data-aos="flip-down")
-          p(data-aos="fade-down").mb-0 Considerando que los eventos y espectáculos tienen consigo un gran compromiso social, es importante conocer el marco legal de los mismos, donde se busca garantizar la efectividad de los principios, derechos y deberes de las personas, como también establecer una normativa que permita el desarrollo de los  eventos o espectáculos con homogeneidad, facilitando su gestión y ejecución y a su vez proporcionando seguridad humana y condiciones de igualdad para todo tipo de evento a partir de su naturaleza y tipología.
+          p(data-aos="fade-down").mb-0 Considerando que los eventos y espectáculos conllevan un gran compromiso social, es importante conocer el marco legal de los mismos, en los que se busca garantizar la efectividad de los principios, derechos y deberes de las personas; también es necesario establecer una normativa que permita el desarrollo de eventos o espectáculos de manera homogénea, facilitando su gestión y ejecución, y proporcionando seguridad y condiciones de igualdad a los asistentes e implicados para todo tipo de evento a partir de su naturaleza y tipología.
       .col-lg-6
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img27.png', alt='')
+
+    .row.mt-5
+      p El siguiente video amplía información importante sobre el marco legal de los eventos:
 
     .row.justify-content-center.align-items-center.mb-5           
       .col-lg-12(data-aos="fade-left")     
@@ -22,9 +25,9 @@
 
     .row.justify-content-center.align-items-center.mb-5 
       .col-lg-6
-        img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img28.svg', alt='')              
+        img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/tema5/img1.svg', alt='')              
       .col-lg-6.my-3
-        p(data-aos="fade-down").mb-0 Para un estudio completo del tema, recuerde explorar todos los recursos que se encuentran disponibles en este componente formativo, y que encuentra en el menú principal, tales como material complementario, actividad didáctica, glosario, entre otros.  
+        p(data-aos="fade-down").mb-0 Para un estudio completo del tema, recuerde explorar todos los recursos que se encuentran disponibles en este componente formativo, y que encuentra en el menú principal, tales como material complementario, actividad didáctica, glosario, entre otros. 
 
 </template>
 

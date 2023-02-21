@@ -12,7 +12,10 @@
     .row.justify-content-center.align-items-center.mb-5           
       .col-lg-6
         .cajon.color-acento-contenido.p-4(data-aos="flip-down")
-          p(data-aos="fade-down").mb-0 Bienvenido querido aprendiz, En este componente formativo tendrá la oportunidad de conocer los conceptos  básicos pero esenciales,  que  le introducirán al mundo de los eventos, su organización y proyección dentro del mercado, con el fin de que reconozca la actividad como una empresa más en el sector de comercio y servicios en Colombia. Lo invitamos a ver el siguiente vídeo en donde podrá ampliar la temática que va a estudiar y la importancia de su formación como organizador de eventos. Le deseamos muchos éxitos en este proceso de aprendizaje.     
+          p(data-aos="fade-down").mb-0 Apreciado aprendiz, bienvenido a este componente formativo, donde tendrá la oportunidad de conocer los conceptos básicos, pero esenciales que lo introducirán al mundo de los eventos, su organización y proyección dentro del mercado, con el fin de que reconozca dicha actividad como una empresa más en el sector de comercio y servicios en Colombia. 
+          br
+          p En el siguiente video conocerá, de forma general, la temática que se estudiará a lo largo del componente formativo.
+
       .col-lg-6
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img1.png', alt='')
 

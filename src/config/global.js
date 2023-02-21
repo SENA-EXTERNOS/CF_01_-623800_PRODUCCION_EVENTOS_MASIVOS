@@ -248,7 +248,7 @@ export default {
     {
       termino: 'Tendencia',
       significado:
-        'Referencia que marca o muestra en gusto, preferencia, inclinación de un gran porcentaje de la población, Lo que está de moda.',
+        'referencia que marca o muestra un gusto, preferencia, inclinación de un gran porcentaje de la población; en pocas palabras, lo que está de moda.',
     },
     {
       termino: 'Tipología',
