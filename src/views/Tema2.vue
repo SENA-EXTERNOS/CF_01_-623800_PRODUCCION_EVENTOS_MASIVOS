@@ -35,7 +35,7 @@
         img.img-a.img-t.mb-3(data-aos="zoom-in")(src='@/assets/curso/temas/img15.png', alt='')
         #t_2_2
         h5(data-aos="fade-down").mb-3.text-center Eventos digitales
-        p(data-aos="fade-down") todo se realiza por medio tecnológico. Han tomado mucha fuerza en estos últimos años, otorgando beneficios como reducción de costos en la producción de los eventos. 
+        p(data-aos="fade-down") Este es un evento que es netamente digital o virtual donde todo se realiza por medio tecnológico. Han tomado mucha fuerza en estos últimos años, otorgando beneficios como reducción de costos en la producción de los eventos. 
 
         p(data-aos="fade-down") Para llevar a cabo el evento digital, se emplea una logística que facilita el encuentro, haciendo uso de una plataforma inmersiva y eficiente con menor impacto en el medio ambiente, que rompe las barreras geográficas existentes para llevar el mensaje sin restricciones, a menos que estas sean exigibles, y mide el impacto del evento de forma más confiable. 
 

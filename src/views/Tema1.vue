@@ -22,7 +22,7 @@
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img8.png', alt='')   
 
     .row
-      p Algunas de las características de los eventos son:   
+      p Estas son algunas de las características que todo evento debe tener: 
 
     .row.justify-content-center.align-items-center       
       .col-lg-10
@@ -83,8 +83,11 @@
                 h4(data-aos="fade-down").text-center.mb-3 Matriz formal y protocolo
                 p(data-aos="fade-down").mb-0 La mayoría de eventos cuentan con matiz formal y un protocolo para alcanzar el objetivo propuesto. Todos cuentan con asistentes como personajes principales, protagonistas, invitados y medios de comunicación. 
 
-    p(data-aos="fade-down").my-5 Son muchas las tipologías de los eventos y varían dependiendo del objetivo que se plantee de los mismos. Existen eventos, deportivos, culturales, sociales, empresariales, académicos, políticos, religiosos, militares, diplomáticos y cada uno de estos cuenta con una diversidad de eventos en sí mismos que exigen un protocolo y una organización en detalle, por ejemplo, uno empresarial puede ser netamente comercial o de capacitación, y sigue siendo de la línea empresarial.
-    p(data-aos="fade-down").mb-5 Según su tipología, los eventos pueden clasificarse así:
+    .row.mt-5
+      h3 Tipologías de eventos    
+    
+      p(data-aos="fade-down").my-5 Son muchas las tipologías de los eventos y varían dependiendo del objetivo que se plantee de los mismos. Existen eventos, deportivos, culturales, sociales, empresariales, académicos, políticos, religiosos, militares, diplomáticos y cada uno de estos cuenta con una diversidad de eventos en sí mismos que exigen un protocolo y una organización en detalle, por ejemplo, uno empresarial puede ser netamente comercial o de capacitación, y sigue siendo de la línea empresarial.
+      p(data-aos="fade-down").mb-5 Según su tipología, los eventos pueden clasificarse así:
 
     TabsC.color-primario.mb-5(data-aos="fade-right")
       .py-3.py-md-4(titulo="Según el público")
@@ -151,7 +154,7 @@
 
               li 
                 i.fas.fa-check
-                p.mb-0 #[b Espectáculos:] son shows o actuaciones en público donde se hace una muestra artística en un escenario de espacio abierto o cerrado, cuyo objetivo es distraer, divertir a los espectadores; dentro de los espectáculos encontramos obras de teatros, conciertos musicales, recitales, comedias e incluso las acrobacias que se presentan en los circos. 
+                p.mb-0 #[b Espectáculos:] son <i>shows</i> o actuaciones en público donde se hace una muestra artística en un escenario de espacio abierto o cerrado, cuyo objetivo es distraer, divertir a los espectadores; dentro de los espectáculos encontramos obras de teatros, conciertos musicales, recitales, comedias e incluso las acrobacias que se presentan en los circos. 
 
               li 
                 i.fas.fa-check
@@ -175,6 +178,7 @@
               li 
                 i.fas.fa-check
                 p.mb-0 #[b Seminarios:] son principalmente académicos, donde se cuenta con uno o varios invitados especializados que abordan un tema específico. Su duración es de más de un día.
+
               li 
                 i.fas.fa-check
                 p.mb-0 #[b Simposios:] está integrado por expertos, donde se realiza intercambio de conocimientos entre expositores.
@@ -186,7 +190,7 @@
               li 
                 i.fas.fa-check
                 p.mb-0 #[b Ceremonias:] son eventos formales que implica una celebración o festejo y que se llevan a cabo bajo unas normas o tradiciones.
-                
+
           .col-lg-5
             img.img-a.img-t.my-3(src='@/assets/curso/temas/img12.png', alt='')
             a.anexo.mb-4(:href="obtenerLink('/downloads/Anexo_1_Tipologia_y_clasificacion_de_los_eventos_1.pdf')" target="_blank")
@@ -211,7 +215,7 @@
             P.mb-0 Masivo: Más de 1.000 personas.
 
     .cajon.color-primario.p-4.mb-3(data-aos="flip-down")
-      p(data-aos="fade-down").mb-0 Para ampliar el tema observe el siguiente vídeo sobre los tipos de formatos para eventos: Ecosistema de Recursos Educativos Digitales SENA. Tipos de formatos para eventos.
+      p(data-aos="fade-down").mb-0 Para ampliar el tema observe el siguiente vídeo sobre los tipos de formatos para eventos: Ecosistema de Recursos Educativos Digitales <i>SENA. Tipos de formatos para eventos</i>.
         a(href="https://youtu.be/Tyu8s3GEMuo" target="_blank") https://youtu.be/Tyu8s3GEMuo     
 </template>
 

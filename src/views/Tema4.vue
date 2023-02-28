@@ -36,10 +36,11 @@
 
       .tarjeta.color-acento-botones.p-3(x="57.5%" y="55%" numero="2")
         h4.text-center.mb-2 Entrevista
-        p Esta técnica permite una interrelación o diálogo entre el entrevistador y el entrevistado; existen diferentes tipos: entrevista asistemática o libre, estructurada, focalizada, simultánea o sucesiva.
+        p.mb-0 Esta técnica permite una interrelación o diálogo entre el entrevistador y el entrevistado; existen diferentes tipos: entrevista asistemática o libre, estructurada, focalizada, simultánea o sucesiva.
+        p Equipo <i>QuestionPro</i>. Métodos y técnicas de recolección de datos más efectivos. <i>QuestionPro</i>.
 
         p.mb-0 Equipo <em>QuestionPro</em>.Métodos y técnicas de recolección de datos más efectivos. <em>QuestionPro</em>. 
-          a(href="https://www.questionpro.com/blog/es/metodos-de-recoleccion-de-datos/" target="_blank") https://www.questionpro.com/ <br> blog/es/metodos-de-recoleccion-de-datos/ 
+          a(href="https://www.questionpro.com/blog/es/metodos-de-recoleccion-de-datos/" target="_blank") https://www.questionpro.com/blog/es/metodos-de-recoleccion-de-datos/ 
            
       .tarjeta.color-acento-botones.p-3(x="79.5%" y="48%" numero="3")
         h4.text-center.mb-2 Análisis documental
@@ -48,11 +49,11 @@
       .tarjeta.color-acento-botones.p-3(x="18.5%" y="39%" numero="4")
         h4.text-center.mb-2 Observación
 
-        p #[b No experimental:] Es una técnica que se utiliza para profundizar lo observado y el comportamiento que se dio en la exploración, por ejemplo: estudiar el impacto que tuvo el evento en los participantes tomando una pequeña muestra y aplicando una guía de observación.
+        p Esta puede ser no experimental o experimental.
 
+        p #[b No experimental:] es una técnica que se utiliza para profundizar lo observado y el comportamiento que se dio en la exploración, por ejemplo: estudiar el impacto que tuvo el evento en los participantes tomando una pequeña muestra y aplicando una guía de observación.
 
         p #[b Experimental:] esta técnica es diferente a la observación no experimental, ya que en ella se elaboran datos en condiciones controladas por quien está realizando la investigación, de manera que puede manipular las variables, aunque también utilice el registro de datos.
-
 
     .row.mt-5
       h3 Instrumentos de recolección

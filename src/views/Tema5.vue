@@ -27,8 +27,8 @@
       .col-lg-6
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/tema5/img1.svg', alt='')              
       .col-lg-6.my-3
-        p(data-aos="fade-down").mb-0 Para un estudio completo del tema, recuerde explorar todos los recursos que se encuentran disponibles en este componente formativo, y que encuentra en el menú principal, tales como material complementario, actividad didáctica, glosario, entre otros. 
-
+        p(data-aos="fade-down").mb-0 Entre los instrumentos de recolección que más se utilizan están cuestionarios y escalas de actitudes. Estos instrumentos se construyen con base en preguntas que se sujetan a las variables de medición; dichas preguntas son construidas de acuerdo con el objetivo de la investigación.
+        
 </template>
 
 <script>

@@ -50,7 +50,7 @@
     .row.justify-content-center
       .col-lg-9
         .cajon.color-acento-contenido.p-4.mb-5(data-aos="flip-down")
-          p(data-aos="fade-down") Le invitamos a ver el siguiente video <b>Elementos de la comunicación </b>
+          p(data-aos="fade-down") Le invitamos a ver el siguiente video <b><i>Elementos de la comunicación </i></b>
             a(href="https://youtu.be/rM4nZhhn3v8" target="_blank") https://youtu.be/rM4nZhhn3v8,
             span para que tenga mayor claridad en cada uno de ellos. 
 
@@ -87,6 +87,7 @@
         .row.justify-content-center.align-items-center
           .col-lg-4
             h5 Comunicación asertiva
+
             p La comunicación asertiva se fundamenta en la forma en que se puede expresar un mensaje de forma adecuada al remover todo tipo de tonos sarcásticos, palabras de reproche o acusación que deterioran la comunicación.  Esta es una habilidad que se manifiesta en algunos individuos, los cuales saben expresar su punto de vista y escuchar el de los otros sin entrar en controversia.
 
             p Al hablar de asertividad nos referimos a expresar a otro las emociones y pensamientos en forma correcta para que haya fluidez entre el emisor, el receptor, y que el resultado de este proceso comunicativo lleve a términos de entendimiento, de acuerdo y reconciliación en el proceso de la comunicación.
@@ -96,9 +97,9 @@
         .row.justify-content-center.align-items-center
           .col-lg-4
             h5 Programación neurolingüística
-            p La comunicación asertiva se fundamenta en la forma en que se puede expresar un mensaje de forma adecuada al remover todo tipo de tonos sarcásticos, palabras de reproche o acusación que deterioran la comunicación.  Esta es una habilidad que se manifiesta en algunos individuos, los cuales saben expresar su punto de vista y escuchar el de los otros sin entrar en controversia.
+            p Es conocida como PNL; se utiliza para pensar de manera efectiva por medio de técnicas, habilidades y modelos con base en estructuras lingüísticas; patrones de comportamiento y mapas mentales de aquellas personas que han llegado a la excelencia en su campo, es decir, trabajadores con éxito.
 
-            p Al hablar de asertividad nos referimos a expresar a otro las emociones y pensamientos en forma correcta para que haya fluidez entre el emisor, el receptor, y que el resultado de este proceso comunicativo lleve a términos de entendimiento, de acuerdo y reconciliación en el proceso de la comunicación.
+            p El PNL marca patrones organizativos en el pensamiento para que se llegue a la excelencia enmarcando a la persona en una forma de ser y de pensar, imitando a otro que ya tuvo éxito. Se refiere a Neuro dado que toman las experiencias de vida como base para crear patrones, y Lingüística dada la traducción a un lenguaje para dar a conocer las impresiones que rigen los sentidos; se toman ambos elementos para realizar una Programación de la cual resultan patrones de comportamiento y marcos de conducta que organizan las ideas y define los comportamientos para lograr imitar el éxito.
 
           .col-lg-6
             img.img-a.img-t(src='@/assets/curso/temas/img22.png', alt='')                                         
