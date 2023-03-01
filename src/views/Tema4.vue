@@ -12,7 +12,7 @@
         .cajon.color-acento-contenido.p-4.mb-3(data-aos="flip-down")
           p(data-aos="fade-down").mb-0 Como en todos los sectores de la producción, en los eventos que pertenecen al sector de comercio y servicios es necesario realizar una investigación previa para determinar el objetivo de este, que llene las expectativas del público y cuente con el impacto necesario. Para esto, es importante realizar una recolección de datos primarios con los cuales se realiza un análisis y se dinamiza para lograr lo propuesto. Con base en ello, se analizan las técnicas de recolección de información, los instrumentos de recolección de datos y el procesamiento de la información.
 
-        p(data-aos="fade-down").mb-0 En el siguiente vídeo se profundiza más sobre la recolección de información. Ecosistema de Recursos Educativos digitales SENA. <i>Recolección de la información</i>
+        p(data-aos="fade-down").mb-0 En el siguiente vídeo se profundiza más sobre la recolección de información. Ecosistema de Recursos Educativos digitales SENA. <i>Recolección de la información </i>
           a(href="https://youtu.be/D_ltPN5Akvo" target="_blank") https://youtu.be/D_ltPN5Akvo              
            
       .col-lg-6
