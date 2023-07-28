@@ -7,13 +7,10 @@
         span 2
       h1 Tendencias de eventos: diseño y tecnología
 
-    .row.justify-content-center.align-items-center.mb-5           
-      .col-lg-6.my-3
+    .row.justify-content-center.align-items-center.mb-3           
+      .col-lg-12.my-3
         .cajon.color-acento-contenido.p-4(data-aos="flip-down")
           p(data-aos="fade-down").mb-0 Las tendencias y diseños de los eventos han evolucionado de la mano con la globalización y la tecnología, de tal forma que si antes se diseñaban solamente eventos presenciales, hoy se han mezclado con las redes sociales y las aplicaciones que permiten, de forma más global, llegar a todos los rincones de la Tierra, dinamizando diseños, logística y permitiendo la participación de los que buscan por afinidad este tipo de espacios para compartir sus intereses.
-           
-      .col-lg-6
-        img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img14.png', alt='')  
 
     p(data-aos="fade-down").mb-5 A continuación, se explican las características de los eventos híbridos y digitales.
 
@@ -45,8 +42,6 @@
         p.ps-3(data-aos="fade-down") • Mayor alcance y cobertura.
         p.ps-3(data-aos="fade-down") • Disminución de costos.
         p.ps-3(data-aos="fade-down") • Su planeación es mucho más fácil y en menor tiempo.
-
-        p(data-aos="fade-down") Para ampliar la información, le invitamos a consultar en el material complementario el documento La guía completa para eventos virtuales inmersivos 3D.
         
 </template>
 
