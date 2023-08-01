@@ -23,13 +23,6 @@
 
     .row.justify-content-center.align-items-center       
       .col-lg-10
-        .bloque-texto-a.color-secundario.p-4.p-md-5.mb-5(data-aos="flip-down") 
-          .row.m-0.align-items-center.justify-content-between
-            .col-lg-4.mb-4.mb-lg-0
-              h2.mb-0.text-white.ps-4 ¿Pero qué son los eventos?
-            .col-lg-8
-              .bloque-texto-a__texto.p-4
-                p Los eventos son acontecimientos que se organizan de acuerdo con un objetivo o interés que congrega a varias personas, quienes se encuentran como afines en un lugar y tiempo determinado, ya sea para dinamizar el comercio, la industria, el intercambio social y la cultura general. También abarcan actividades que permiten posicionar y promocionar empresas o marcas. 
         h5(data-aos="fade-down").mb-5 Estas son algunas de las características que todo evento debe tener: 
         .row.justify-content-center.align-items-stretch.mb-2           
           .col-lg-4.my-3
