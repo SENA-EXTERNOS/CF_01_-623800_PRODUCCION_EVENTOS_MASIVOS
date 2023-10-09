@@ -36,11 +36,10 @@
 
       .tarjeta.color-acento-botones.p-3(x="57.5%" y="55%" numero="2")
         h4.text-center.mb-2 Entrevista
-        p.mb-0 Esta técnica permite una interrelación o diálogo entre el entrevistador y el entrevistado; existen diferentes tipos: entrevista asistemática o libre, estructurada, focalizada, simultánea o sucesiva.
+        p Esta técnica permite una interrelación o diálogo entre el entrevistador y el entrevistado; existen diferentes tipos: entrevista asistemática o libre, estructurada, focalizada, simultánea o sucesiva.
         p Equipo <i>QuestionPro</i>. Métodos y técnicas de recolección de datos más efectivos. <i>QuestionPro</i>.
 
-        p.mb-0 Equipo <em>QuestionPro</em>.Métodos y técnicas de recolección de datos más efectivos. <em>QuestionPro</em>. 
-          a(href="https://www.questionpro.com/blog/es/metodos-de-recoleccion-de-datos/" target="_blank") https://www.questionpro.com/blog/es/metodos-de-recoleccion-de-datos/ 
+          a(href="https://www.questionpro.com/blog/es/metodos-de-recoleccion-de-datos/" target="_blank") <br>https://www.questionpro.com/blog/es/metodos-de-recoleccion-de-datos/ 
            
       .tarjeta.color-acento-botones.p-3(x="79.5%" y="48%" numero="3")
         h4.text-center.mb-2 Análisis documental

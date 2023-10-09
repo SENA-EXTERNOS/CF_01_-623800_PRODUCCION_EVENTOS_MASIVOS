@@ -135,7 +135,9 @@ export default {
       tema: 'Eventos Digitales',
       referencia:
         'Equipo de Penta Marketing. 2020. <i>La guía completa para eventos virtuales inmersivos 3D. Pentamarketing</i>.',
-      tipo: 'Documento',
+      tipo: 'artículo',
+      link:
+        'https://www.revistapym.com.co/articulos/comunicacion/36176/penta-marketing-lanza-el-primer-ebook-gratuito-sobre-eventos-virtuales-3d',
     },
     {
       tema: 'Recolección de información ',
@@ -292,8 +294,7 @@ export default {
     {
       referencia:
         'Roberto Espinosa. (Sin fecha). <i>Elementos de la comunicación: tipos y ejemplos.</i> Roberto Espinosa.',
-      link:
-        'https://robertoespinosa.es/2020/11/15/elementos-de-la-comunicacion/',
+      link: 'https://robertoespinosa.es/elementos-de-la-comunicacion/',
     },
     {
       referencia:

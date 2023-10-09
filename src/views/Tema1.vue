@@ -196,7 +196,7 @@
           .col-lg-5
             P La complejidad de un evento se define como la aglomeración excesiva de público que por su comportamiento manifiesta situaciones amenazantes, bien sean factores externos o internos, así como por las condiciones o el lugar donde se desarrolla el evento. Estos factores se unen en ocasiones a variables no controlables de origen natural que puedan generar una situación no prevista. 
 
-            P #[b El aforo] El aforo es el número de personas autorizadas para estar en un lugar determinado o participar en un evento. Este se considera así:
+            P #[b El aforo] es el número de personas autorizadas para estar en un lugar determinado o participar en un evento. Este se considera así:
 
 
             P.mb-0 Pequeño: 2 a 99 personas.
