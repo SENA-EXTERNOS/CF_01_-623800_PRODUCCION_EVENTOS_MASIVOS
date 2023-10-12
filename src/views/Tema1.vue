@@ -66,9 +66,12 @@
                 img.img-a.img-t.pt-5.mb-4(data-aos="zoom-in")(src='@/assets/curso/temas/img6.svg', alt='')
                 h4(data-aos="fade-down").text-center.mb-3 Originalidad
                 p(data-aos="fade-down").mb-0 Los eventos son únicos y no se repiten, pues aunque se use la misma temática, presenta modificaciones en su planeación.
+     
           .col-lg-4.my-3
-            .tarjeta.ribbon.bg3.h-100(data-aos="fade-right")
-              .p-3.text-white
+            .tarjeta.ribbon.bg1.h-100(data-aos="fade-left")
+              span.ribbon1
+                span 6
+              .p-3
                 img.img-a.img-t.pt-5.mb-4(data-aos="zoom-in")(src='@/assets/curso/temas/img7.svg', alt='')
                 h4(data-aos="fade-down").text-center.mb-3 Matriz formal y protocolo
                 p(data-aos="fade-down").mb-0 La mayoría de eventos cuentan con matiz formal y un protocolo para alcanzar el objetivo propuesto. Todos cuentan con asistentes como personajes principales, protagonistas, invitados y medios de comunicación. 
